@@ -139,7 +139,7 @@ include "konten.php";
     <?php include $konten; ?> <!-- Konten Dinamis -->
 
     <footer class="main-footer">
-      <strong>Copyright &copy; 2023 <a href="https://smktj-bdg.sch.id">Agus Ariyanto</a>.</strong>
+      <strong>Copyright &copy; 2023 <a href="https://smktj-bdg.sch.id">Aline</a>.</strong>
       All rights reserved.
       <div class="float-right d-none d-sm-inline-block">
         <b>Version</b> 1.0

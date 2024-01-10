@@ -9,13 +9,13 @@
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="index.php?p=periode" class="nav-link">
+                  <a href="index.php?p=produk" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Produk</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?p=biaya" class="nav-link">
+                  <a href="index.php?p=pelanggan" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Pelanggan</p>
                   </a>
