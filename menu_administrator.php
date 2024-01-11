@@ -39,13 +39,13 @@
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="index.php?p=tagihan" class="nav-link">
+                  <a href="index.php?p=tambah" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Tambah</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?p=bayar" class="nav-link">
+                  <a href="index.php?p=history" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>History</p>
                   </a>
