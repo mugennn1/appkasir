@@ -52,7 +52,7 @@
               <td><?= number_format($kolom['TotalHarga']); ?></td>
               <td>
                 <!---Tombol print nota--->
-               <a href="#"><i class="fas fa-print"></i></a>
+               <a href="pdf/output/nota_jual.php?PenjualanID=<?=$kolom['PenjualanID']; ?>" target="_blank"><i class="fas fa-print"></i></a>
                <!--Tombol Informasi-->
                <a href="index.php?p=infojual&PenjualanID=<?=$kolom['PenjualanID']; ?>"><i class="fas fa-search"></i></a>
                <!---Tombol hapus-->
